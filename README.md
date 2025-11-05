@@ -1,8 +1,8 @@
-# Flask App CI/CD with Cloud Build
+# Flask App CI/CD with Cloud Build and Cloud Run
 
 This project demonstrates a complete CI/CD pipeline for a Flask application using Google Cloud Build, Cloud Run, BigQuery, and Cloud Storage.
 
-## Table of Contents
+## Table of Contents 
 
 - [Prerequisites](#prerequisites)
 - [Architecture](#architecture)
